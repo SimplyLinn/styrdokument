@@ -47,11 +47,11 @@ jobs:
       - name: Build Swedish pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: -f gfm --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}.pdf swe.md
+          args: -f gfm+raw_tex --output=output/styrdokument_in_swe_${{ steps.date_hash.outputs.date }}.pdf swe.md
       - name: Build English pdf
         uses: docker://pandoc/latex:2.9
         with:
-          args: -f gfm --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}.pdf eng.md
+          args: -f gfm+raw_tex --output=output/styrdokument_in_eng_${{ steps.date_hash.outputs.date }}.pdf eng.md
       - name: Create Zip
         run: |
           zip --junk-paths all_documents_${{ steps.date_hash.outputs.date }}.zip output/*
