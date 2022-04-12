@@ -7,9 +7,10 @@ Senast ändrade vid Sektionsmötet 2017-02-22
 
 \pagebreak
 
-| Innehållsförteckning
-|:---|---:|:---|---:|
-| §1 Allmänt | | §2 Styrdokument | 
+| Innehållsförteckning |
+|:---:|
+| §1 Allmänt |
+| §2 Styrdokument | 
 | §1.1 Namn | | §2.1 Styrdokument | 
 | §1.2 Färg | | §2.2 Stadgar | 
 | §1.3 Ändamål | | §2.3 PM | 
@@ -52,8 +53,10 @@ Senast ändrade vid Sektionsmötet 2017-02-22
 | §7.10 Beslut | 
 | --- |
 
-| Innehållsförteckning
-|:---|---:|:---|---:|
+\pagebreak
+
+| Innehållsförteckning |
+|:---:|
 | §9 Sektionens klubbar | | §10 Sektionens föreningar | 
 | §9.1 Upprättande | | §10.1 Föreningsgodkännande | 
 | §9.2 Bemyndigande | | §10.2 Bemyndigande | 
@@ -226,21 +229,13 @@ Förslaget från sektionsstyrelsen läggs fram som en proposition.
 §4.2.1 Ordinarie medlem har rätt:
 
 - att deltaga på sektionsmötet med yttrande- och rösträtt.
-
 - att få viss fråga behandlad av sektionsmötet.
-
 - att reservera sig mot sektionsmötets beslut.
-
 - att ta del av sektionens protokoll och övriga handlingar.
-
 - att rösta i val till Kårfullmäktige.
-
 - att kandidera till samtliga förtroendeuppdrag inom sektionen och THS, inspektor undantaget.
-
 - att närvara på styrelsemöte.
-
 - att ta del av den service som sektionen erbjuder.
-
 - att bära sektionens overall med sektionens färg och sektionens insignia.
 
 §4.2.2 Ordinarie medlem är skyldig:
